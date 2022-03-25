@@ -12,19 +12,19 @@ struct UIButton2: UIViewRepresentable {
     func makeUIView(context: Context) -> UIButton {
 //      create button
         let button = UIButton(type: .custom)
-        let imageConfiguration = UIImage.SymbolConfiguration(pointSize: 15, weight: .regular, scale: .default)
-        let image = UIImage(systemName: "chevron.right", withConfiguration: imageConfiguration)
+//        let imageConfiguration = UIImage.SymbolConfiguration(pointSize: 15, weight: .regular, scale: .default)
+//        let image = UIImage(systemName: "chevron.right", withConfiguration: imageConfiguration)
         
         button.setTitle("App Extentions ", for: .normal)
         button.setTitleColor(.black, for: .normal)
         
-        button.setImage(image, for: .normal)
-        button.tintColor = UIColor.label
+//        button.setImage(image, for: .normal)
+//        button.tintColor = UIColor.label
         
 //        button.contentHorizontalAlignment = .fill
-        button.transform = CGAffineTransform(scaleX: -1.0, y: 1.0)
-        button.titleLabel?.transform = CGAffineTransform(scaleX: -1.0, y: 1.0)
-        button.imageView?.transform = CGAffineTransform(scaleX: -1.0, y: 1.0)
+//        button.transform = CGAffineTransform(scaleX: -1.0, y: 1.0)
+//        button.titleLabel?.transform = CGAffineTransform(scaleX: -1.0, y: 1.0)
+//        button.imageView?.transform = CGAffineTransform(scaleX: -1.0, y: 1.0)
         
         
 //      link the .storyboard file
