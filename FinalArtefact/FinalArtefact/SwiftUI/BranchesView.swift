@@ -17,7 +17,7 @@ struct BranchesView: View {
                     
             List {
                 
-                Text("Choose one of the following branches")
+                Text("Choose one of the following branches:")
                     .font(.headline)
                     .fontWeight(.bold)
                     .multilineTextAlignment(.leading)
@@ -33,6 +33,10 @@ struct BranchesView: View {
                     .listRowSeparator(.hidden)
                     .background(Color.lightBlue)
                     .cornerRadius(20)
+                
+                
+                Image("Dev")
+                    
 
             }
             .listStyle(.plain)
