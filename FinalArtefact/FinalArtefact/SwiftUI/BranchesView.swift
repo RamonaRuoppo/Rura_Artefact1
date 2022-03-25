@@ -35,7 +35,8 @@ struct BranchesView: View {
                     .cornerRadius(20)
                 
                 
-                Image("Dev")
+                Image("Code")
+                    .padding(.top)
                     
 
             }

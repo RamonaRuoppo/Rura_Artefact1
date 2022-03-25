@@ -39,7 +39,7 @@
                                     <constraint firstAttribute="height" constant="35" id="mwu-lM-YzE"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="filled" title="Let's do this!"/>
+                                <buttonConfiguration key="configuration" style="filled" title="Let's do this!" cornerStyle="large"/>
                                 <connections>
                                     <segue destination="SBe-x4-pmw" kind="show" destinationCreationSelector="showSwiftUIView:" id="Gn5-W4-ZVe"/>
                                 </connections>
