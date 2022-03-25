@@ -43,3 +43,5 @@ Declare properties for name and an isComplete Boolean, assigning it a default va
         var isComplete: Bool = false
     }   
     ```
+
+Now do the same process for the tasks Model.
