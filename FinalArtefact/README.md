@@ -32,4 +32,14 @@ You can also set the image to be circular:
     ```
 
 
-Now it's time to reate a Model for the branches and another one for the tasks. The App will be structured on the Model-View-Controller (MVC) design pattern. This one is a common design pattern for UIKit apps.  
+Now it's time to reate a Model for the branches and another one for the tasks. The App will be structured on the Model-View-Controller (MVC) design pattern. This one is a common design pattern for UIKit apps. 
+In the Project navigator, create a new group named "Model". 
+Create a new Swift file named Branches.swift with a structure for your data model.
+Declare properties for name and isComplete.
+
+    ```
+    struct Branch {
+        var name: String
+        var isComplete: Bool = false
+    }   
+    ```
