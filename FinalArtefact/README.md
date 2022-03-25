@@ -24,10 +24,12 @@ You can also set the image to be circular:
 * First open the assistant, then control-drag the image into an available area within the ViewController class definition, you will be prompted to create an outlet
 * Now override the function viewDidLoad() like this:
 
+    ```
     override func viewDidLoad() {
         super.viewDidLoad()
         imageOutlet.layer.cornerRadius = imageOutlet.frame.height/2
     }
+    ```
 
 
 Now it's time to reate a Model for the branches and another one for the tasks. The App will be structured on the Model-View-Controller (MVC) design pattern. This one is a common design pattern for UIKit apps.  
