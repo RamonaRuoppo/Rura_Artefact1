@@ -21,6 +21,7 @@ struct BranchesView: View {
                     .font(.headline)
                     .fontWeight(.bold)
                     .multilineTextAlignment(.leading)
+                    .padding()
                 
                 
                 UIButtonView()
@@ -28,11 +29,13 @@ struct BranchesView: View {
                     .background(Color.lightBlue)
                     .opacity(20)
                     .cornerRadius(20)
+                    .padding(.horizontal)
 
                 UIButton2()
                     .listRowSeparator(.hidden)
                     .background(Color.lightBlue)
                     .cornerRadius(20)
+                    .padding(.horizontal)
                 
                 
                 Image("Code")

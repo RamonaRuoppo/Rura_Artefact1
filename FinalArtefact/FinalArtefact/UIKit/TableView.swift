@@ -40,12 +40,15 @@ class TableView: UITableViewController {
         let cell = tableView.dequeueReusableCell(withIdentifier: "cell", for: indexPath) as! TasksTableViewCell
         
         // Fetch model object to display
-        let tasks1 = tasks1[indexPath.row]
+        var tasks1 = tasks1[indexPath.row]
         
         // Configure cell
         cell.update(with: tasks1)
         cell.showsReorderControl = true
         
+        tasks1.isCompleted = !tasks1.isCompleted
+//        tableView.reloadRows(at: [indexPath], with: .automatic)
+
         // Return cell
         return cell
     }
