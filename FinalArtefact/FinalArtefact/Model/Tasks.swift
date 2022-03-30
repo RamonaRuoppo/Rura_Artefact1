@@ -26,7 +26,7 @@ var tasks1 = [
 
 
 var tasks2 = [
-    Tasks(title: "Lab - App Extentions"),
+    Tasks(title: "Lab - App Extensions"),
     Tasks(title: "Workshop - Intro to Widgets"),
     Tasks(title: "Artefact"),
     Tasks(title: "Airtable - Artifact 2 Deliverable"),

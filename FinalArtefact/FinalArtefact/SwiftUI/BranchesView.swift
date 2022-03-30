@@ -19,7 +19,7 @@ struct BranchesView: View {
                 
                 Text("Choose one of the following branches:")
                     .font(.headline)
-                    .fontWeight(.bold)
+                    .fontWeight(.semibold)
                     .multilineTextAlignment(.leading)
                     .padding()
                 
@@ -39,7 +39,8 @@ struct BranchesView: View {
                 
                 
                 Image("Code")
-                    .padding(.top)
+                    .padding(.top, 25)
+                    .scaleEffect(0.8)
                     
 
             }
