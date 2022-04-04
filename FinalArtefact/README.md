@@ -13,6 +13,8 @@ This integration can be achieved easily using ContainerViews and UIHostingContro
 
 The project is based on UIKit and integrates a SwiftUI View. The latter presents two buttons using UIKit component and a non-modal experience using a UISheetPresentationController. 
 
+![SimulatorArtefactGif](https://user-images.githubusercontent.com/92525390/161572039-0ae8c9ea-c5a5-40c8-91bc-12ac6ebdeb91.gif)
+
 
 ##  SwifUI in UIKit
 
