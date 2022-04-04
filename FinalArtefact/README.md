@@ -1,5 +1,6 @@
 #  SwiftUI implementation in UIKit and vice versa
 
+
 This project aims to integrate SwiftUI in UIKit and vice versa. 
 
 SwitfUI was first released in 2019, that makes it a relatively new technology. Its declarative approach is the key differentiator when comparing SwiftUI to UIKit. 
@@ -13,7 +14,8 @@ This integration can be achieved easily using ContainerViews and UIHostingContro
 
 The project is based on UIKit and integrates a SwiftUI View. The latter presents two buttons using UIKit component and a non-modal experience using a UISheetPresentationController. 
 
-<img src= "https://user-images.githubusercontent.com/92525390/161572039-0ae8c9ea-c5a5-40c8-91bc-12ac6ebdeb91.gif" width="200">
+<img src= "https://user-images.githubusercontent.com/92525390/161572039-0ae8c9ea-c5a5-40c8-91bc-12ac6ebdeb91.gif" width="200"> 
+<img src= "https://user-images.githubusercontent.com/92525390/161635596-59e8209a-9b90-4aad-9a58-cac3e08aabdf.gif" width="200">
 
 ##  SwifUI in UIKit
 
