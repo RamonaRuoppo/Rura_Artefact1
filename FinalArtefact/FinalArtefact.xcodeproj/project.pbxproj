@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C611905A27F8FD4700BF9E28 /* TasksStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = C611905927F8FD4700BF9E28 /* TasksStore.swift */; };
+		C611905C27F8FE7E00BF9E28 /* TaskStore2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C611905B27F8FE7E00BF9E28 /* TaskStore2.swift */; };
 		C63948F827ECBDD20040B48E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C63948F727ECBDD20040B48E /* AppDelegate.swift */; };
 		C63948FA27ECBDD20040B48E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C63948F927ECBDD20040B48E /* SceneDelegate.swift */; };
 		C63948FC27ECBDD20040B48E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C63948FB27ECBDD20040B48E /* ViewController.swift */; };
@@ -60,6 +62,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		C611905927F8FD4700BF9E28 /* TasksStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TasksStore.swift; sourceTree = "<group>"; };
+		C611905B27F8FE7E00BF9E28 /* TaskStore2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskStore2.swift; sourceTree = "<group>"; };
 		C63948F427ECBDD20040B48E /* FinalArtefact.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FinalArtefact.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C63948F727ECBDD20040B48E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C63948F927ECBDD20040B48E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -195,6 +199,8 @@
 			children = (
 				C639493927ED06160040B48E /* Branches.swift */,
 				C639493B27ED06220040B48E /* Tasks.swift */,
+				C611905927F8FD4700BF9E28 /* TasksStore.swift */,
+				C611905B27F8FE7E00BF9E28 /* TaskStore2.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -342,6 +348,8 @@
 				C639493A27ED06160040B48E /* Branches.swift in Sources */,
 				C63C9F1E27ED1F8B00D63993 /* TableView2.swift in Sources */,
 				C63948FA27ECBDD20040B48E /* SceneDelegate.swift in Sources */,
+				C611905C27F8FE7E00BF9E28 /* TaskStore2.swift in Sources */,
+				C611905A27F8FD4700BF9E28 /* TasksStore.swift in Sources */,
 				C639493C27ED06220040B48E /* Tasks.swift in Sources */,
 				C63C9F2027ED200200D63993 /* TableViewCell2.swift in Sources */,
 				C639493827ED01F00040B48E /* TableView.swift in Sources */,

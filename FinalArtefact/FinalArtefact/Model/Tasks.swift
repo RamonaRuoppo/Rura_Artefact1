@@ -13,6 +13,15 @@ struct Tasks {
     var isCompleted: Bool = false
 }
 
+
+//struct Task: Identifiable {
+//
+//    let id = UUID()
+//    var title: String
+//    var isCompleted: Bool = false
+//
+//}
+
 var tasks1 = [
     Tasks(title: "Lab - UIKit Intro"),
     Tasks(title: "Workshop - UIKit meets SwiftUI"),
