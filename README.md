@@ -18,7 +18,7 @@ The project is based on UIKit and integrates a SwiftUI View. The latter presents
 
 <img src= "https://user-images.githubusercontent.com/92525390/161572039-0ae8c9ea-c5a5-40c8-91bc-12ac6ebdeb91.gif" width="200"> 
 
-The goal of the first part of this project is to navigate from the `ViewController` to a view built in SwiftUI once we tap on the `UIButton`. 
+The goal of the first part of this project is to navigate from the `ViewController` to a view built in SwiftUI once we tap on the `UIButton`.
 
 You can easily integrate the SwiftUI functionalities within an existing UIKit project using `ContainerView` and `UIHostingController`.
 To embed a SwiftUI View into a UIKit view hierarchy as an entire scene all you need is a `UIHostingController`. 
