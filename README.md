@@ -28,4 +28,4 @@ This controller is compatible with UIKit since it is a subclass of UIViewControl
 
 <img src= "https://user-images.githubusercontent.com/92525390/161786409-6f5ea5ae-2cf2-4d75-bd5b-098d95d804a3.gif" width="200">
 
-The second part of this project aims to integrate UIKit into SwiftUI
+The second part of this project aims to integrate a non-modal sheet built with UIKit into a SwiftUI view. To do that, Apple provides you the `UIViewRepresentable` protocol.
