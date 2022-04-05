@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C611905A27F8FD4700BF9E28 /* TasksStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = C611905927F8FD4700BF9E28 /* TasksStore.swift */; };
-		C611905C27F8FE7E00BF9E28 /* TaskStore2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C611905B27F8FE7E00BF9E28 /* TaskStore2.swift */; };
 		C63948F827ECBDD20040B48E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C63948F727ECBDD20040B48E /* AppDelegate.swift */; };
 		C63948FA27ECBDD20040B48E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C63948F927ECBDD20040B48E /* SceneDelegate.swift */; };
 		C63948FC27ECBDD20040B48E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C63948FB27ECBDD20040B48E /* ViewController.swift */; };
@@ -19,7 +17,6 @@
 		C639491927ECBDD30040B48E /* FinalArtefactUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C639491827ECBDD30040B48E /* FinalArtefactUITests.swift */; };
 		C639491B27ECBDD30040B48E /* FinalArtefactUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C639491A27ECBDD30040B48E /* FinalArtefactUITestsLaunchTests.swift */; };
 		C639492A27ECC01B0040B48E /* UIButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C639492927ECC01B0040B48E /* UIButtonView.swift */; };
-		C639492D27ECC0600040B48E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C639492C27ECC0600040B48E /* ContentView.swift */; };
 		C639492F27ECC2CE0040B48E /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C639492E27ECC2CE0040B48E /* Storyboard.storyboard */; };
 		C639493227ECC4720040B48E /* BranchesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C639493127ECC4720040B48E /* BranchesView.swift */; };
 		C639493427ECD05E0040B48E /* UIButton2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C639493327ECD05E0040B48E /* UIButton2.swift */; };
@@ -62,8 +59,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		C611905927F8FD4700BF9E28 /* TasksStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TasksStore.swift; sourceTree = "<group>"; };
-		C611905B27F8FE7E00BF9E28 /* TaskStore2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskStore2.swift; sourceTree = "<group>"; };
 		C63948F427ECBDD20040B48E /* FinalArtefact.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FinalArtefact.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C63948F727ECBDD20040B48E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C63948F927ECBDD20040B48E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -78,7 +73,6 @@
 		C639491827ECBDD30040B48E /* FinalArtefactUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalArtefactUITests.swift; sourceTree = "<group>"; };
 		C639491A27ECBDD30040B48E /* FinalArtefactUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalArtefactUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		C639492927ECC01B0040B48E /* UIButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButtonView.swift; sourceTree = "<group>"; };
-		C639492C27ECC0600040B48E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C639492E27ECC2CE0040B48E /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 		C639493127ECC4720040B48E /* BranchesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BranchesView.swift; sourceTree = "<group>"; };
 		C639493327ECD05E0040B48E /* UIButton2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButton2.swift; sourceTree = "<group>"; };
@@ -88,7 +82,6 @@
 		C63C9F1B27ED0B7500D63993 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		C63C9F1D27ED1F8B00D63993 /* TableView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableView2.swift; sourceTree = "<group>"; };
 		C63C9F1F27ED200200D63993 /* TableViewCell2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell2.swift; sourceTree = "<group>"; };
-		C680DAB227EE160300E8C76A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,7 +112,6 @@
 		C63948EB27ECBDD20040B48E = {
 			isa = PBXGroup;
 			children = (
-				C680DAB227EE160300E8C76A /* README.md */,
 				C63948F627ECBDD20040B48E /* FinalArtefact */,
 				C639490D27ECBDD30040B48E /* FinalArtefactTests */,
 				C639491727ECBDD30040B48E /* FinalArtefactUITests */,
@@ -175,7 +167,6 @@
 				C639493127ECC4720040B48E /* BranchesView.swift */,
 				C639492927ECC01B0040B48E /* UIButtonView.swift */,
 				C639493327ECD05E0040B48E /* UIButton2.swift */,
-				C639492C27ECC0600040B48E /* ContentView.swift */,
 			);
 			path = SwiftUI;
 			sourceTree = "<group>";
@@ -199,8 +190,6 @@
 			children = (
 				C639493927ED06160040B48E /* Branches.swift */,
 				C639493B27ED06220040B48E /* Tasks.swift */,
-				C611905927F8FD4700BF9E28 /* TasksStore.swift */,
-				C611905B27F8FE7E00BF9E28 /* TaskStore2.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -340,7 +329,6 @@
 			files = (
 				C639493427ECD05E0040B48E /* UIButton2.swift in Sources */,
 				C63948FC27ECBDD20040B48E /* ViewController.swift in Sources */,
-				C639492D27ECC0600040B48E /* ContentView.swift in Sources */,
 				C639493227ECC4720040B48E /* BranchesView.swift in Sources */,
 				C63948F827ECBDD20040B48E /* AppDelegate.swift in Sources */,
 				C639492A27ECC01B0040B48E /* UIButtonView.swift in Sources */,
@@ -348,8 +336,6 @@
 				C639493A27ED06160040B48E /* Branches.swift in Sources */,
 				C63C9F1E27ED1F8B00D63993 /* TableView2.swift in Sources */,
 				C63948FA27ECBDD20040B48E /* SceneDelegate.swift in Sources */,
-				C611905C27F8FE7E00BF9E28 /* TaskStore2.swift in Sources */,
-				C611905A27F8FD4700BF9E28 /* TasksStore.swift in Sources */,
 				C639493C27ED06220040B48E /* Tasks.swift in Sources */,
 				C63C9F2027ED200200D63993 /* TableViewCell2.swift in Sources */,
 				C639493827ED01F00040B48E /* TableView.swift in Sources */,

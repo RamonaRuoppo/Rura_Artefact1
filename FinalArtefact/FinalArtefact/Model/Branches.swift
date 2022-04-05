@@ -15,7 +15,7 @@ struct Branch {
 
 
 var branch = [
-    Branch(name: "SwiftUI meets UIKit"),
-    Branch(name: "App Extensions")
+    Branch(name: "Swift Basics: Beginning"),
+    Branch(name: "Swift Basics: Progressing")
 ]
 

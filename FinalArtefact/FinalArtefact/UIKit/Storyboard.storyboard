@@ -8,7 +8,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--SwiftUI meets UIkit-->
+        <!--Swift Basics: Beginning-->
         <scene sceneID="LDG-4k-Y1x">
             <objects>
                 <tableViewController storyboardIdentifier="TViewC" id="nuD-35-Dwh" customClass="TableView" customModule="FinalArtefact" customModuleProvider="target" sceneMemberID="viewController">
@@ -67,7 +67,7 @@
                             <outlet property="delegate" destination="nuD-35-Dwh" id="jhx-aG-SP8"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="SwiftUI meets UIkit" largeTitleDisplayMode="always" id="hT8-ki-vaH"/>
+                    <navigationItem key="navigationItem" title="Swift Basics: Beginning" largeTitleDisplayMode="always" id="hT8-ki-vaH"/>
                     <connections>
                         <outlet property="navTitle" destination="hT8-ki-vaH" id="fcG-Ls-Pq8"/>
                     </connections>
@@ -76,7 +76,7 @@
             </objects>
             <point key="canvasLocation" x="2173.8461538461538" y="76.777251184834114"/>
         </scene>
-        <!--App Extentions-->
+        <!--Swift Basics: Progressing-->
         <scene sceneID="AFw-RD-GCD">
             <objects>
                 <tableViewController storyboardIdentifier="TViewC2" id="QtS-rk-jtH" customClass="TableView2" customModule="FinalArtefact" customModuleProvider="target" sceneMemberID="viewController">
@@ -137,7 +137,7 @@
                             <outlet property="delegate" destination="QtS-rk-jtH" id="M4T-sg-O2x"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="App Extentions" largeTitleDisplayMode="always" id="Qni-0j-Ggz"/>
+                    <navigationItem key="navigationItem" title="Swift Basics: Progressing" largeTitleDisplayMode="always" id="Qni-0j-Ggz"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="sEO-HU-Noq" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>

@@ -13,7 +13,7 @@ struct UIButtonView: UIViewRepresentable {
 //      create button
         let button = UIButton(type: .custom)
         
-        button.setTitle("SwiftUI meets UIKit ", for: .normal)
+        button.setTitle("Swift Basics: Beginning ", for: .normal)
         button.setTitleColor(.black, for: .normal)
         
         

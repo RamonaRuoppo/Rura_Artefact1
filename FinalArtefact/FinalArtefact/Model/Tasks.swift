@@ -14,32 +14,23 @@ struct Tasks {
 }
 
 
-//struct Task: Identifiable {
-//
-//    let id = UUID()
-//    var title: String
-//    var isCompleted: Bool = false
-//
-//}
-
 var tasks1 = [
-    Tasks(title: "Lab - UIKit Intro"),
-    Tasks(title: "Workshop - UIKit meets SwiftUI"),
-    Tasks(title: "Workshop - SwiftUI meets UIKit"),
-    Tasks(title: "Artefact"),
-    Tasks(title: "Airtable - Artifact 1 Deliverable"),
-    Tasks(title: "Artefact Consultation"),
-    Tasks(title: "Peer Feedback"),
-    Tasks(title: "Poster")
+    Tasks(title: "Naming and Identifiers"),
+    Tasks(title: "Constants and Variables"),
+    Tasks(title: "Strings"),
+    Tasks(title: "Functions"),
+    Tasks(title: "Parameters and Results"),
+    Tasks(title: "Instances, Methods, and Properties"),
+    Tasks(title: "Arrays and Loops"),
 ]
 
 
 var tasks2 = [
-    Tasks(title: "Lab - App Extensions"),
-    Tasks(title: "Workshop - Intro to Widgets"),
-    Tasks(title: "Artefact"),
-    Tasks(title: "Airtable - Artifact 2 Deliverable"),
-    Tasks(title: "Artefact Consultation"),
-    Tasks(title: "Peer Feedback"),
-    Tasks(title: "Poster")
+    Tasks(title: "Structures"),
+    Tasks(title: "Classes"),
+    Tasks(title: "Loops"),
+    Tasks(title: "Collections"),
+    Tasks(title: "Operators"),
+    Tasks(title: "Enumerations"),
+    Tasks(title: "Initialization")
 ]

@@ -15,7 +15,7 @@ struct UIButton2: UIViewRepresentable {
 //        let imageConfiguration = UIImage.SymbolConfiguration(pointSize: 15, weight: .regular, scale: .default)
 //        let image = UIImage(systemName: "chevron.right", withConfiguration: imageConfiguration)
         
-        button.setTitle("App Extentions ", for: .normal)
+        button.setTitle("Swift Basics: Progressing ", for: .normal)
         button.setTitleColor(.black, for: .normal)
         
 //        button.setImage(image, for: .normal)
