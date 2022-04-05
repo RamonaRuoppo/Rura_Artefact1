@@ -16,7 +16,7 @@ The project is based on UIKit and integrates a SwiftUI View. The latter presents
 
 ##  SwifUI in UIKit
 
-<img src= "https://user-images.githubusercontent.com/92525390/161572039-0ae8c9ea-c5a5-40c8-91bc-12ac6ebdeb91.gif" width="200"> 
+<img src= "https://user-images.githubusercontent.com/92525390/161785813-143c9e7b-0651-4c94-9a92-cf8673417b65.gif" width="200"> 
 
 The goal of the first part of this project is to navigate from the `ViewController` to a view built in SwiftUI once we tap on the `UIButton`.
 
