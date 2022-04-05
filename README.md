@@ -26,4 +26,6 @@ This controller is compatible with UIKit since it is a subclass of UIViewControl
 
 ##  UIKit in SwifUI
 
-<img src= "https://user-images.githubusercontent.com/92525390/161635596-59e8209a-9b90-4aad-9a58-cac3e08aabdf.gif" width="200">
+<img src= "https://user-images.githubusercontent.com/92525390/161786409-6f5ea5ae-2cf2-4d75-bd5b-098d95d804a3.gif" width="200">
+
+The second part of this project aims to integrate UIKit into SwiftUI
